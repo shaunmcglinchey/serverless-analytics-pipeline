@@ -5,6 +5,8 @@ Hosted in AWS CodeCommit (for now)
 
 ### Description
 This simple pipeline.
+![AWS Serverless pipeline, 10%](pipeline.png "Pipeline architecture")
+
 
 ![AWS Athena UI query, 10%](athena.png "Athena UI")
 
